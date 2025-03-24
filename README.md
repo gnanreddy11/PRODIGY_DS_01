@@ -27,6 +27,3 @@ I chose to analyze the global population dataset provided by the World Bank.
 ## 📂 Files Included
 - `Population_Distribution_Analysis.ipynb` — Main analysis notebook
 - `README.md` — Project overview
-
-## ✅ Status
-✔️ Completed — Ready to be added to my portfolio and internship report.
